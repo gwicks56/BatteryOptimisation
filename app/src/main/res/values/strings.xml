@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatteryOptimisation</string>
+    <string name="accessibility_service_label">TEST TOOL</string>
+</resources>
